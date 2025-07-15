@@ -13,11 +13,3 @@
     - Show user-specific tasks only (use token for identifying user).
 
 
-
-### Project workflow 
-- create the project folder 
-- create client and server inside it
-- server folder structure for backend
-- cd server --> npm init -y
-- npm i cors mongoose express jsonwebtoken bcryptjs dotenv
-
